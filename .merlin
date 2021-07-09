@@ -7,6 +7,8 @@ S D:\js_projects\rescript-youtube-clone\node_modules\@rescript\react\lib\ocaml
 B D:\js_projects\rescript-youtube-clone\node_modules\@rescript\react\lib\ocaml
 S src
 B lib\bs\src
+S src\Router
+B lib\bs\src\Router
 S src\App
 B lib\bs\src\App
 ####BSB GENERATED: NO EDIT}
