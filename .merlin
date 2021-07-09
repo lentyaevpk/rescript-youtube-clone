@@ -1,0 +1,12 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx "D:\js_projects\rescript-youtube-clone\node_modules\rescript\win32\bsc.exe -as-ppx -bs-jsx 3"
+S D:\js_projects\rescript-youtube-clone\node_modules\rescript\lib\ocaml
+B D:\js_projects\rescript-youtube-clone\node_modules\rescript\lib\ocaml
+FLG -w +a-4-9-20-40-41-42-50-61-102
+S D:\js_projects\rescript-youtube-clone\node_modules\@rescript\react\lib\ocaml
+B D:\js_projects\rescript-youtube-clone\node_modules\@rescript\react\lib\ocaml
+S src
+B lib\bs\src
+S src\App
+B lib\bs\src\App
+####BSB GENERATED: NO EDIT}
